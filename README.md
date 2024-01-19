@@ -1,4 +1,4 @@
-**Project Title: Advanced Ecommerce Web Application**
+**Project Title: ClickStore -(E-commerce web application)**
 
 **Overview:**
 Advanced Ecommerce Web Application is a comprehensive and robust online shopping platform developed using advanced Java technologies like Servlets, Hibernate and JSP. This web application seamlessly integrates with MySQL database to store and manage product information, user data and order details. The front end is designed using Bootstrap to ensure a modern and responsive user interface.
