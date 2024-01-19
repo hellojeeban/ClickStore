@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.custom-bg {
+	background: #161A30 !important;
+}
+body{
+	background-color: #F0ECE5 !important;
+}
+.admin .card{
+	border: 1px solid #161A30;
+}
+.admin .card:hover {
+	background: #5C8374;
+	cursor: pointer !important;
+}
+a{
+	text-decoration: none;
+}
